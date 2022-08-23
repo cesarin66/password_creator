@@ -24,4 +24,4 @@ random.shuffle(password_list)
 pwd=""
 for char in password_list:
   pwd+=char
-print("the passowrd is: "+(pwd))
+print("the password is: "+(pwd))
